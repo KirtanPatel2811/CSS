@@ -1,0 +1,12 @@
+.overflow {
+  height: 200px;
+  width: 200px;
+  color: rebeccapurple;
+  background-color: aqua;
+  /* overflow: auto; enable scroll */
+  /* overflow: hidden; things overflowing will be hidden */
+  overflow-y: scroll; /* only vertical scroll */
+  overflow-x: hidden; /* only horizontal scroll */
+  overflow-x: scroll; /* both horizontal and vertical scroll */
+  overflow-y: auto; /* both vertical and horizontal scroll, with scrollbar */
+}

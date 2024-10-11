@@ -1,0 +1,15 @@
+a {
+  color: rgb(208, 0, 0);
+  text-decoration: none;
+  background-color: aqua;
+  font-size: 50px;
+}
+a:visited {
+  color: blue;
+}
+a:active {
+  color: yellow;
+}
+a:hover {
+  color: green;
+}

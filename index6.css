@@ -1,0 +1,17 @@
+.hello {
+  color: chocolate;
+  background-color: aqua;
+  text-align: left;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 7px;
+  text-indent: 50px;
+  letter-spacing: 2px;
+  word-spacing: 3px;
+  /* horizontal vertical blur color */
+  text-shadow: 2px 2px 5px blue;
+}
+
+.lorem {
+  text-align: justify;
+}

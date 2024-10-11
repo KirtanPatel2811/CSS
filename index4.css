@@ -1,0 +1,8 @@
+h1 {
+  color: orange;
+  font-size: 24px;
+  border-style: solid;
+  border-color: blue red pink purple;
+  border-radius: 5px;
+  border-width: 20px 15px 10px 5px;
+}

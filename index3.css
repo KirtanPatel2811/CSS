@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(140, 140, 145);
+  background-image: url(image/ME.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h1 {
+  color: red;
+  background-color: beige;
+  background-image: url(image/ME.png);
+  background-size: 100% 100%;
+}

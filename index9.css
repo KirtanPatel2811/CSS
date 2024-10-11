@@ -1,0 +1,8 @@
+h1 {
+  display: inline;
+  /* display: none; disaapearrs will not be shown in website and also it will not take any space*/
+  /* visibility: hidden; will be on website but will not be visible */
+}
+span {
+  display: block;
+}

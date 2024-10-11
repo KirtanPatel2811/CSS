@@ -1,0 +1,10 @@
+h1 {
+  color: aquamarine;
+  /* color:#000000; 
+   color:rgba(red, green, blue, alpha) alpha = transparency 
+   color: rgb(0,0,0)
+  color: hsl(0, 0%, 0%)h = hue , s = saturation , l = light
+  border: 2px solif rgb(0,0,0); */
+
+  border: 2px solid red;
+}
